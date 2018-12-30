@@ -10,10 +10,10 @@ attiva nello sviluppo di soluzioni di *Supply Chain Collaboration*.
 Oggetto dell'attività è stato lo studio di una nuova soluzione software architetturale di Business Intelligence per l’analisi
 degli ordini di acquisto come alternativa a quella attuale.
 Il progetto è stato svolto in autonomia, ha avuto una durata complessiva di sei mesi e si è articolato nelle seguenti fasi:
-* formazione 
+* formazione relativa al contesto aziendale 
 * studio dello stato dell'arte relativo alle piattaforme di ETL e Reportistica disponibili
 * *software selection*
-* *Proof-of-Concept* - sviluppo di un prototipo
+* *proof-of-Concept* - sviluppo di un prototipo
 
 ## Creato con
 
