@@ -22,3 +22,4 @@ Il progetto è stato svolto in autonomia, ha avuto una durata complessiva di sei
 
 ## Autore
 **Marcella Tincani** - [Marcella](https://github.com/tmarcy)
+[write to me](tinmarcydev@gmail.com)
