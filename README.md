@@ -1,5 +1,6 @@
 # Tesi di Laurea Magistrale
 Tesi di Laurea Magistrale in Ingegneria Informatica.
+Anno accademico di riferimento 2017-2018.
 
 ## Titolo
 Studio di una soluzione di Business Intelligence per la gestione degli ordini di acquisto.
