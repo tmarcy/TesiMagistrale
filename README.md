@@ -21,5 +21,4 @@ Il progetto è stato svolto in autonomia, ha avuto una durata complessiva di sei
 * [Latex](https://www.latex-project.org/)
 
 ## Autore
-
-* **Marcella Tincani** - [Marcella](https://github.com/tmarcy)
+**Marcella Tincani** - [Marcella](tinmarcydev@gmail.com)
