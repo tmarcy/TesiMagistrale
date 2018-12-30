@@ -14,7 +14,7 @@ Il progetto è stato svolto in autonomia, ha avuto una durata complessiva di sei
 * studio del progetto
 * *scouting* tecnologico
 * *software selection*
-* *proof-of-Concept* - sviluppo di un prototipo
+* *proof-of-concept* - sviluppo di un prototipo
 
 ## Creato con
 
